@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2"
+  },
+  "name": "express-apiservice-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syahdin",
+  "license": "ISC",
+  "description": ""
+}
