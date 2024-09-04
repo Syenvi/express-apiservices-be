@@ -3,7 +3,8 @@
     "axios": "^1.7.5",
     "cheerio": "^1.0.0",
     "ejs": "^3.1.10",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "puppeteer": "^23.2.2"
   },
   "name": "express-apiservice-backend",
   "version": "1.0.0",
